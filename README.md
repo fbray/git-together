@@ -13,3 +13,8 @@ and GUI solutions.
   * Branching
   * Push and Pull
   * Conflicts
+
+## Demo Time
+1. Tyler and Francine both login to hangouts and share screens
+1. Desktop in meeting room logged in to hangouts
+1. Person manning main desktop will toggle presenter screen.
